@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://surat4dlink.ramdajs.com/sitemap.xml
